@@ -1,0 +1,1 @@
+export { default as LocationPoint } from './LocationPoint.vue';

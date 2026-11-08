@@ -1,0 +1,1 @@
+export { default as HoverTitle } from './HoverTitle.vue' 
